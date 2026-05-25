@@ -1,0 +1,12 @@
+*.exe
+*.o
+*.obj
+*.log
+
+mtrx/
+mtrx_omp/
+timing/
+timing_omp/
+
+.vscode/
+.idea/
